@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.content {
+	overflow:hidden;
+	float:left;
+	margin:0;
+	width: 100%;
+	font-size:12pt;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+}
+
+.content h1 {
+	font-family:Arial;
+	padding-left:5px;
+	padding-right:5px;
+	margin:0;
+	color:#000;
+	font-size:25px;
+}

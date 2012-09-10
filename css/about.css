@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+.content {
+	overflow:hidden;
+	float:left;
+	margin:0;
+	padding:0px 5px 5px 0px;
+	width: 100%;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.content h1 {
+	font-size:28px;
+	color:#BE9E5E;
+}
+
+.content h1 .description {
+    font-variant: small-caps;
+	font-weight:normal;
+}
+
+.content p {
+    color: #000;
+	margin-bottom:5px;
+	font: 18px/23px;
+}
+
+.content .higlights {
+    float: right;
+	font-size:24px;
+	text-align:center;
+	padding:15px;
+	width:50%;
+	color:#993;
+	font-variant: small-caps;
+}
+
+.content .higlights1 {
+    float: left;
+}
+
+.content .higlights2 {
+    float: right;
+}

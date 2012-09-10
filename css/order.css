@@ -1,0 +1,31 @@
+﻿body {
+    margin: 0px;
+    padding: 0px;
+    background: url('speckles.png') repeat;
+    font-family:"Helvetica";
+    padding:10px;
+}
+
+h1 {
+    font-size:14pt;
+}
+
+h2 {
+    font-size:12pt;
+    color:#818181;
+}
+
+.field_label {
+    display:block;
+    /*float:left;*/
+    /*width:100px;
+     padding-right:10px;*/
+    padding-bottom:5px;
+    /*text-align:right;*/
+}
+
+input[type=text], input[type=number], input[type=email], input[type=tel], textarea, button, select, input[type=submit] {
+    font-size:16pt;
+}
+
+label.error { display:block;float: none; color: red;vertical-align: top; }
